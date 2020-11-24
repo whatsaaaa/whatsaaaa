@@ -23,13 +23,13 @@
     <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26px" height="26px" /> 
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img align="left" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26px" height="26px" /> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="26px" height="26px" /> 
   </a>
   <a href="https://v3.vuejs.org/" target="_blank"> 
-    <img align="left" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26px" height="26px" /> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-plain.svg" alt="vuejs" width="26px" height="26px" /> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img align="left" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26px" height="26px" /> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="26px" height="26px" /> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img align="left" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26px" height="26px" /> 
