@@ -13,7 +13,7 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img align="left" src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp" width="26px" height="26px" /> 
   </a>
-  <a href="hhttps://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
     <img align="left" src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="26px" height="26px" /> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
