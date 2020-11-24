@@ -1,24 +1,39 @@
-### Hello 👋 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whatsaaaa&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsaaaa&theme=dracula" />
-</a>
+### Software Engineer
 
 
-<!--
-**whatsaaaa/whatsaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedInConnect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)][linkedin]
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:aleksandarmilicevic18@gmail.com?subject=Hello&body=Hello,)
 
-Here are some ideas to get you started:
+👋 Hi there, I am Aleksandar, Software Engineer from Belgrade, Serbia 🇷🇸.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working with:
+
+
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp" width="26px" height="26px" /> 
+  </a>
+  <a href="hhttps://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="26px" height="26px" /> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26px" height="26px" /> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26px" height="26px" /> 
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26px" height="26px" /> 
+  </a>
+  <a href="https://v3.vuejs.org/" target="_blank"> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26px" height="26px" /> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26px" height="26px" /> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img align="left" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26px" height="26px" /> 
+  </a>
+</p>
+
+[linkedin]: https://www.linkedin.com/in/milicevica/
