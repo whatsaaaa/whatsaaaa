@@ -2,7 +2,6 @@
 
 
 [![LinkedInConnect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)][linkedin]
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:aleksandarmilicevic18@gmail.com?subject=Hello&body=Hello,)
 
 👋 Hi there, I am Aleksandar, Software Engineer from Belgrade, Serbia 🇷🇸.
 
