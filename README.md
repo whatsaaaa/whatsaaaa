@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./assets/whatsaaaa.svg" />
+</p>
+
 Hey, I'm Whatsaaaa.
 
 I build web apps end to end, mostly Vue and Nuxt on the frontend and C# and Go with Postgres behind it. I like owning the whole thing, from the database schema to the last button on the page.
