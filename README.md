@@ -1,21 +1,17 @@
-<p align="center">
-    <img src="./assets/whatsaaaa.svg" />
-</p>
+<img src="./.github/assets/readme-header.svg" alt="whatsaaaa" width="100%" />
 
-## Hey there, I'm Whatsaaaa 👋
+I build web applications from top to bottom: Vue and Nuxt on the front, C#/.NET and Go with Postgres on the back. My favorite part is owning the whole thing, from the database schema to the last button on the page. I'm a bit of a nerd about clean architecture and good tooling, and I like trying languages and frameworks outside my usual stack.
 
-Thanks for stopping by!
+## Projects
 
-I build web applications from top to bottom: Vue and Nuxt on the front, C#/.NET and Go with Postgres doing the heavy lifting behind them. My favorite part is owning the whole thing, from sketching the database schema to polishing the last button on the page.
+- [form-builder](https://github.com/whatsaaaa/form-builder): define Formisch forms in JSON, render them with your own components, or compile them to typed Valibot code. [Docs](https://whatsaaaa.github.io/form-builder/)
+- [design-system](https://github.com/whatsaaaa/design-system): my brand identity, design tokens, typography, docs theme and asset kit.
+- [building-blocks](https://github.com/whatsaaaa/building-blocks): the foundation every one of my .NET products is built on.
+- [dotfiles](https://github.com/whatsaaaa/dotfiles): my macOS setup, written down as code.
 
-Around here you'll find libraries I use every day, experiments that are still figuring out what they want to be, and a few rabbit holes I fell into and happily never climbed out of. I'm a bit of a nerd about clean architecture and good tooling, so expect plenty of that.
+## Links
 
-### Off the beaten path 🧪
+- Website: [whatsaaaa.github.io](https://whatsaaaa.github.io/)
+- npm: [@whatsaaaa](https://www.npmjs.com/org/whatsaaaa)
 
-Vue and .NET are home, but I get curious easily. I like poking at languages, frameworks and ideas outside my usual stack, whether that's a new backend language, a different way of doing frontends, or some tool everyone's talking about this week. Some of those experiments end up here, some quietly disappear, and every one of them teaches me something.
-
-If you're thinkering with something interesting, I'd love to hear about it!
-
-### Say hi 💬
-
-If anything here helps you out, that genuinely makes my day. Questions, ideas, bug reports and PRs are all very welcome. I might not reply right away, but I do read everything.
+Questions, ideas, bug reports and pull requests are all welcome, so feel free to say hi.
